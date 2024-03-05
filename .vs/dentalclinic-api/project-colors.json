@@ -1,5 +1,26 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "49796585-40be-4244-8b83-5df740bb78a8": {
+      "ProjectGuid": "49796585-40be-4244-8b83-5df740bb78a8",
+      "DisplayName": "dentalclinic-api",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "eba8ce58-cf80-4f74-be97-4b835e73d80e": {
+      "ProjectGuid": "eba8ce58-cf80-4f74-be97-4b835e73d80e",
+      "DisplayName": "dentalclinic.Common",
+      "ColorIndex": 1
+    },
+    "fbfadc43-24fe-4c1b-bdcc-a8189658abec": {
+      "ProjectGuid": "fbfadc43-24fe-4c1b-bdcc-a8189658abec",
+      "DisplayName": "dentalclinic.Domain",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
 }
