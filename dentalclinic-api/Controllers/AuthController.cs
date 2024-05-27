@@ -36,6 +36,7 @@ namespace dentalclinic_api.Controllers
             var user = await _userManager.FindByNameAsync(model.Username);
             if (user != null && await _userManager.CheckPasswordAsync(user, model.Password) && await _userManager.IsInRoleAsync(user, model.UserRole))
             {
+                
                 var userRoles = await _userManager.GetRolesAsync(user);
                 var authClaims = new List<Claim>
                 {
