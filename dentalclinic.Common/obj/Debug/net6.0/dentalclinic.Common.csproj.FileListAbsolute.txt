@@ -12,3 +12,17 @@ C:\Users\midhu\source\ReactApp\dentalclinic-api\dentalclinic.Common\obj\Debug\ne
 C:\Users\midhu\source\ReactApp\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\ref\dentalclinic.Common.dll
 C:\Users\midhu\source\ReactApp\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\dentalclinic.Common.pdb
 C:\Users\midhu\source\ReactApp\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\dentalclinic.Common.genruntimeconfig.cache
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\bin\Debug\net6.0\dentalclinic.Common.deps.json
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\bin\Debug\net6.0\dentalclinic.Common.runtimeconfig.json
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\bin\Debug\net6.0\dentalclinic.Common.dll
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\bin\Debug\net6.0\dentalclinic.Common.pdb
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\dentalclinic.Common.csproj.AssemblyReference.cache
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\dentalclinic.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\dentalclinic.Common.AssemblyInfoInputs.cache
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\dentalclinic.Common.AssemblyInfo.cs
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\dentalclinic.Common.csproj.CoreCompileInputs.cache
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\dentalclinic.Common.dll
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\refint\dentalclinic.Common.dll
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\dentalclinic.Common.pdb
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\dentalclinic.Common.genruntimeconfig.cache
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Common\obj\Debug\net6.0\ref\dentalclinic.Common.dll

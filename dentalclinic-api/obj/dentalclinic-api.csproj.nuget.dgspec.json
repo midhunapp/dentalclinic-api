@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic-api\\dentalclinic-api.csproj": {}
+    "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic-api\\dentalclinic-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic-api\\dentalclinic-api.csproj": {
+    "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic-api\\dentalclinic-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic-api\\dentalclinic-api.csproj",
+        "projectUniqueName": "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic-api\\dentalclinic-api.csproj",
         "projectName": "dentalclinic-api",
-        "projectPath": "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic-api\\dentalclinic-api.csproj",
-        "packagesPath": "C:\\Users\\midhu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic-api\\obj\\",
+        "projectPath": "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic-api\\dentalclinic-api.csproj",
+        "packagesPath": "C:\\Users\\Midhuna.Purayil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\midhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Midhuna.Purayil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +22,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AIZ-SSP/GH.AppDev-SSP/_packaging/AIZ-GH-SSP-NuGet/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj": {
-                "projectPath": "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj"
+              "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj": {
+                "projectPath": "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj"
               },
-              "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Domain\\dentalclinic.Domain.csproj": {
-                "projectPath": "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Domain\\dentalclinic.Domain.csproj"
+              "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Domain\\dentalclinic.Domain.csproj": {
+                "projectPath": "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Domain\\dentalclinic.Domain.csproj"
               }
             }
           }
@@ -80,7 +81,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -92,21 +94,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj": {
+    "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj",
         "projectName": "dentalclinic.Common",
-        "projectPath": "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj",
-        "packagesPath": "C:\\Users\\midhu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Common\\obj\\",
+        "projectPath": "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj",
+        "packagesPath": "C:\\Users\\Midhuna.Purayil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\midhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Midhuna.Purayil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,7 +116,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AIZ-SSP/GH.AppDev-SSP/_packaging/AIZ-GH-SSP-NuGet/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -155,7 +158,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -164,21 +168,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Domain\\dentalclinic.Domain.csproj": {
+    "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Domain\\dentalclinic.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Domain\\dentalclinic.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Domain\\dentalclinic.Domain.csproj",
         "projectName": "dentalclinic.Domain",
-        "projectPath": "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Domain\\dentalclinic.Domain.csproj",
-        "packagesPath": "C:\\Users\\midhu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Domain\\dentalclinic.Domain.csproj",
+        "packagesPath": "C:\\Users\\Midhuna.Purayil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\midhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Midhuna.Purayil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -186,14 +190,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AIZ-SSP/GH.AppDev-SSP/_packaging/AIZ-GH-SSP-NuGet/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj": {
-                "projectPath": "C:\\Users\\midhu\\source\\ReactApp\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj"
+              "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj": {
+                "projectPath": "C:\\Users\\Midhuna.Purayil\\OneDrive - Neudesic\\Learning\\FullStack-Real\\dentalclinic-api\\dentalclinic.Common\\dentalclinic.Common.csproj"
               }
             }
           }
@@ -219,7 +224,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -228,7 +234,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

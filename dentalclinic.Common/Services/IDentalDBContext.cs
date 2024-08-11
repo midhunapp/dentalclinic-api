@@ -1,7 +1,7 @@
 ﻿using dentalclinic.Common.Model.Domain;
 using System;
 using System.Collections.Generic;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,7 +10,9 @@ namespace dentalclinic.Common.Services
 {
     public interface IDentalDBContext:IDisposable
     {
-       // DbSet<Nationality> Nationalitie { get; set; }
-        //public DbSet<Role> Roles { get; set; }
+        DbSet<Nationality> Nationalities { get; set; }
+        DbSet<ApplicationUser> ApplicationUsers { get; set; }
+        public DbSet<UserType> UserTypes { get; set; }
+
     }
 }

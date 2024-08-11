@@ -15,3 +15,20 @@ C:\Users\midhu\source\ReactApp\dentalclinic-api\dentalclinic.Domain\obj\Debug\ne
 C:\Users\midhu\source\ReactApp\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\ref\dentalclinic.Domain.dll
 C:\Users\midhu\source\ReactApp\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\dentalclinic.Domain.pdb
 C:\Users\midhu\source\ReactApp\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\dentalclinic.Domain.genruntimeconfig.cache
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\bin\Debug\net6.0\dentalclinic.Domain.deps.json
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\bin\Debug\net6.0\dentalclinic.Domain.runtimeconfig.json
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\bin\Debug\net6.0\dentalclinic.Domain.dll
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\bin\Debug\net6.0\dentalclinic.Domain.pdb
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\bin\Debug\net6.0\dentalclinic.Common.dll
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\bin\Debug\net6.0\dentalclinic.Common.pdb
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\dentalclinic.Domain.csproj.AssemblyReference.cache
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\dentalclinic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\dentalclinic.Domain.AssemblyInfoInputs.cache
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\dentalclinic.Domain.AssemblyInfo.cs
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\dentalclinic.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\dentalclinic.Domain.csproj.CopyComplete
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\dentalclinic.Domain.dll
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\refint\dentalclinic.Domain.dll
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\dentalclinic.Domain.pdb
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\dentalclinic.Domain.genruntimeconfig.cache
+C:\Users\Midhuna.Purayil\OneDrive - Neudesic\Learning\FullStack-Real\dentalclinic-api\dentalclinic.Domain\obj\Debug\net6.0\ref\dentalclinic.Domain.dll

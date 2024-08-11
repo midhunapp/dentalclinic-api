@@ -15,6 +15,10 @@ namespace dentalclinic.Common.Model.Domain
         [Column(TypeName = "varchar(200)")]
         public string NationalityName { get; set;}
         [Column(TypeName = "varchar(20)")]
-        public string NationalityCode { get;}
+        public string NationalityCode { get; set; }
+
+        public int IsActive { get; set; }
+
+        public ICollection<ApplicationUser>? ApplicationUser { get; set; }
     }
 }
